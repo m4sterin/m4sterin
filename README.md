@@ -22,13 +22,15 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
-  - HTML
+  - C#
   - CSS
   - JavaScript
-  - React
-  - Java
+  - Vue
   - MongoDB
   - MySQL
+  - Crystal Reports
+  - Liquibase
+  - Blockchain
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
