@@ -1,6 +1,6 @@
 <h4 align="center">
  
-![Hello](https://i.imgur.com/p4vnGAN.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <hr>
 
@@ -9,15 +9,36 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/m4sterin)](https://www.linkedin.com/in/caio-rodrigues-b89355165/)
 </h4>
 
-<h3 align="center">
- <br>
+<h3 align="center">  <br>
+
 Olá, eu sou o Caio! 🇧🇷
 <br>
- Estudante de Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas. <br>
- Focando meus estudos em desenvolvimento front-end & back-end. =)
+
 </h3>
 
-<br>
+```
+Estudante de Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas,
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+```
+## Tecnologias que estou estudando atualmente 💻
 
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Java
+  - MongoDB
+  - MySQL
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+
+- Estou cursando Sistemas de Informação. 💻
+
+
+<br>
+## Meus dados no Github
 ![A GitHub stats](https://github-readme-stats.vercel.app/api?username=m4sterin&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4sterin&layout=compact&theme=tokyonight)](https://github.com/m4sterin)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
