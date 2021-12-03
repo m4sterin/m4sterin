@@ -38,8 +38,6 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 - Estou cursando Sistemas de Informação. 💻
 
-
-<br>
 ## Meus dados no Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4sterin&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4sterin&layout=compact&theme=tokyonight)](https://github.com/m4sterin)
