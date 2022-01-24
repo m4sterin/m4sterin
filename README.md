@@ -23,20 +23,19 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Tecnologias que estou estudando atualmente 💻
 
   - C#
-  - CSS
-  - JavaScript
   - Vue
   - MongoDB
   - MySQL
-  - Crystal Reports
-  - Liquibase
   - Blockchain
+  - Docker
+  - Kubernets
+  - Design Patterns
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
-- Estou cursando Sistemas de Informação. 💻
+- Formado em Sistemas de Informação. 💻
 
 ## Meus dados no Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4sterin&show_icons=true&theme=tokyonight)
