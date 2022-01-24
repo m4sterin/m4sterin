@@ -17,8 +17,8 @@ Olá, eu sou o Caio! 🇧🇷
 </h3>
 
 ```
-Estudante de Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas,
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Formado em Sistemas de Informação pela UNIPAM - Centro Universitário de Patos de Minas,
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um backend dev.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
