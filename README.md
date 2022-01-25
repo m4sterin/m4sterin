@@ -33,7 +33,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar em uma grande empresa, para melhorar meus conhecimentos e conhecer novas tecnologias, pessoas e ter novas experiências. 😄
 
 - Formado em Sistemas de Informação. 💻
 
