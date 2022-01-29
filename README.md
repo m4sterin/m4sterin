@@ -23,13 +23,14 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Tecnologias que estou estudando atualmente 💻
 
   - C#
-  - Vue
   - MongoDB
   - MySQL
   - Blockchain
   - Docker
   - Kubernets
   - Design Patterns
+  - Cloud (Azure e Google)
+  - Testes unitários
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
