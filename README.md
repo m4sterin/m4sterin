@@ -5,7 +5,6 @@
 <hr>
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/m4sterin)](https://www.facebook.com/caiio.rodriigues.1)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/m4sterin)](https://www.instagram.com/rodriigues.caiio/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/m4sterin)](https://www.linkedin.com/in/caio-rodrigues-b89355165/)
 </h4>
 
